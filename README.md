@@ -1,26 +1,26 @@
-<!-- Заголовок с анимацией приветствия -->
-<h1 align="center">👋 Привет, я Владислав Васильев</h1>
-<h3 align="center">Web-разработчик из Беларуси</h3>
+<h1 align="center">👋 Hi, I'm Vladislav</h1>
+<h3 align="center">Web Developer</h3>
 
-<!-- Баннер (рекомендую заменить ссылку на своё изображение) -->
+<!-- Animated typing banner instead of broken image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1280x320/0d1117/ffffff?text=Создаю+современные+веб-приложения" alt="Баннер" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+modern+web+apps;React+%2F+Next.js+enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 Обо мне
+### 👨‍💻 About Me
 
-Я веб-разработчик, специализируюсь на создании интерактивных и производительных Web-приложений. Постоянно изучаю новые технологии и делюсь опытом через открытый код. Мой стек — React, Node.js, TypeScript, и всё, что с ними связано.
+I'm a web developer focused on building interactive and performant web applications. I constantly explore new technologies and share my experience through open source. My stack includes React, Node.js, TypeScript, and everything around them.
 
-- 🔭 Сейчас работаю над **собственными pet-проектами**
-- 🌱 Углубляю знания в **Next.js**
-- 💬 Готов помочь с вопросами по **React, JavaScript, HTML/CSS**
-- 📫 Связаться со мной: **vasilevvladislav060606@gmail.com** 
+- 🔭 I’m currently working on **personal pet projects**
+- 🌱 Deepening my knowledge of **Next.js**
+- 💬 Ask me about **React, JavaScript, HTML/CSS**
+- 📫 How to reach me: **vasilevvladislav060606@gmail.com**
+- ⚡ Fun fact: I love solving algorithmic challenges and participating in hackathons
 
 ---
 
-### 🛠️ Технологии и инструменты
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -37,46 +37,46 @@
 
 ---
 
-### 📌 Избранные проекты
+### 📌 Featured Projects
 
-| Название | Описание | Стек | Ссылка |
-|----------|----------|------|--------|
-| **react_app_future_academy** | Платформа для онлайн-обучения с системой управления курсами и личным кабинетом. | React, Redux, Node.js, MongoDB | [Репозиторий](https://github.com/Vladislav-Vasilyeu/react_app_future_academy) |
-| **crypta_v2** | Дашборд для отслеживания криптовалют в реальном времени с графиками и фильтрами. | React, Chart.js, Express, WebSocket | [Репозиторий](https://github.com/Vladislav-Vasilyeu/crypta_v2) |
-| *Добавьте свой третий проект* | *Краткое описание* | *Технологии* | *Ссылка* |
+| Name | Description | Stack | Link |
+|------|-------------|-------|------|
+| **react_app_future_academy** | Online learning platform with course management and personal cabinet. | React, Redux, Node.js, MongoDB | [Repository](https://github.com/Vladislav-Vasilyeu/react_app_future_academy) |
+| **crypta_v2** | Real‑time cryptocurrency dashboard with charts and filters. | React, Chart.js, Express, WebSocket | [Repository](https://github.com/Vladislav-Vasilyeu/crypta_v2) |
+| *Add your third project* | *Short description* | *Technologies* | *Link* |
 
-*(Вы можете закрепить эти репозитории на странице профиля, чтобы они всегда были видны)*
-
----
-
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vladislav-Vasilyeu&show_icons=true&theme=radical&hide_border=true" alt="Статистика" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-Vasilyeu&layout=compact&theme=radical&hide_border=true" alt="Языки" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vladislav-Vasilyeu&theme=radical&hide_border=true" alt="Серия коммитов"/>
-</p>
+*(You can pin these repositories on your profile page so they are always visible)*
 
 ---
 
-### 📫 Связаться со мной
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vladislav-Vasilyeu&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-Vasilyeu&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vladislav-Vasilyeu&theme=radical&hide_border=true" alt="Streak stats"/>
+</p>
+
+---
+
+### 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vladislav-vasilyev-632947395/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/_vasi.lev_vlad.islav_?igsh=OGJmM3kyOGFiNHZu" target="_blank"><img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/_vasi.lev_vlad.islav_?igsh=OGJmM3kyOGFiNHZu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://t.me/vlad_islav_vasi_lev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="vasilevvladislav060606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:vasilevvladislav060606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### ✨ Поддержите меня
+### ✨ Support Me
 
-Если вам понравились мои проекты, поставьте ⭐️ на репозитории — это очень вдохновляет!
+If you like my projects, please give them a ⭐ — it really motivates me!
 
 ---
 
-*Последнее обновление: июнь 2026*
+*Last updated: June 2026*
