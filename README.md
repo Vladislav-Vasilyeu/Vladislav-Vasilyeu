@@ -43,9 +43,7 @@ I'm a web developer focused on building interactive and performant web applicati
 |------|-------------|-------|------|
 | **react_app_future_academy** | Online learning platform with course management and personal cabinet. | React, Redux, Node.js, MongoDB | [Repository](https://github.com/Vladislav-Vasilyeu/react_app_future_academy) |
 | **crypta_v2** | Real‑time cryptocurrency dashboard with charts and filters. | React, Chart.js, Express, WebSocket | [Repository](https://github.com/Vladislav-Vasilyeu/crypta_v2) |
-| *Add your third project* | *Short description* | *Technologies* | *Link* |
 
-*(You can pin these repositories on your profile page so they are always visible)*
 
 ---
 
